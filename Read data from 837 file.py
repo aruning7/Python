@@ -2,6 +2,8 @@
 """
 Created on Fri Feb 21 12:28:40 2025
 
+Python code to read data from 837 file, data will be printed in the form of dataframe
+
 @author: Arun
 """
 import pandas as pd
